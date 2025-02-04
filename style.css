@@ -39,7 +39,7 @@ button:hover {
 }
 
 .image-container img {
-    max-width: 90px; /* Set a maximum width for the image */
+    max-width: 200px; /* Set a maximum width for the image */
     height: auto; /* Maintain aspect ratio */
     border-radius: 10px; /* Add rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
