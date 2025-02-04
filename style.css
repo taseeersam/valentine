@@ -34,12 +34,12 @@ button:hover {
     bottom: 20px; /* Distance from the bottom of the page */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%); /* Adjust for perfect centering */
-    width: 100%; /* Ensure the container spans the full width */
+    width: 500%; /* Ensure the container spans the full width */
     text-align: center; /* Center the image inside the container */
 }
 
 .image-container img {
-    max-width: 200px; /* Set a maximum width for the image */
+    max-width: 90px; /* Set a maximum width for the image */
     height: auto; /* Maintain aspect ratio */
     border-radius: 10px; /* Add rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
